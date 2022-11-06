@@ -5,7 +5,10 @@ Hi! I had a blast building this application. Some special features I've included
 
 # Installation / Usage
 
-    git clone https://github.com/riviellocorey/post_application.git // Installation 
+    git clone https://github.com/riviellocorey/post_application.git // Installation
+    cd post_application
+    
+    
     npm install // Install Dependencies
     npm start // Start application without developer environments
     npm run dev // Start application with nodemon & dev environments
