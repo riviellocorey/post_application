@@ -1,6 +1,6 @@
 # Welcome my name is Corey!
 
-Hi! I had a blast building this application. Some special features I've included were, **Auto Complete**, **Bootstrap**, and **Lazy Loading**. I look forward to going the code on Monday. The installation and usage details are below.
+Hi! I had a blast building this application. Some special features I've included were, **Auto Complete**, **Bootstrap**, and **Lazy Loading**. I look forward to going over the code Monday. The installation and usage details are below.
 
 
 # Installation / Usage
