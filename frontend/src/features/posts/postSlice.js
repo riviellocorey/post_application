@@ -29,7 +29,6 @@ const postSlice = createSlice({
                 title: title || state.data[index].title,
                 body: body || state.data[index].body
             };
-            console.log(updateData);
             const currData = state.data[index];
             state.data[index] = {...currData, ...updateData};
         }
