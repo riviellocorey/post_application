@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "postinstall": "cd backend && npm install && cd ../frontend && npm install",
     "start": "concurrently \"npm start --prefix backend\" \"npm start --prefix frontend\"",
     "dev": "concurrently \"npm run dev --prefix backend\" \"npm start --prefix frontend\"",
     "tests": "npm run test --prefix backend && npm run test --prefix frontend",
